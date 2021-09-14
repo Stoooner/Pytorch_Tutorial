@@ -1,4 +1,4 @@
-# CPP-Tutorial
+# Pytorch-Tutorial
 
 - 由于一些敏感因素,因此之前GitHub的master主分支名称被换成了诸如main/root等等中性名词,因此要讲master分支切换为main分支的话, 步骤如下:
     1.1 背景： 本地当前分支为master，远程仓库为main，且远程仓库与本地仓库有 unrelated histories这样的问题，如远程仓库有README.md但本地没有；
